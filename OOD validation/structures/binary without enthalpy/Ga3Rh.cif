@@ -1,0 +1,72 @@
+
+#(C) 2025 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_129707-ICSD
+_database_code_ICSD 129707
+_audit_creation_date 2025-02-01
+_chemical_name_common 'Gallium rhodium (3/1) - HT'
+_chemical_formula_structural 'Ga3 Rh'
+_chemical_formula_sum 'Ga3 Rh1'
+_exptl_crystal_density_diffrn 7.51
+_citation_title
+
+;
+On chemical bonding in ht-Ga\(_3\)Rh and its effect on structural organization
+and thermoelectric behavior
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2024 63 12156 12166 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Cardoso-Gil, RaÃºl'
+primary 'Krnel, Mitja'
+primary 'Wagner, Frank R.'
+primary 'Grin, Yuri'
+_cell_length_a 6.4808
+_cell_length_b 6.4808
+_cell_length_c 6.5297
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 274.25
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh0+ 0
+Ga0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Rh1 Rh0+ 2 i 0.1573 0.1573 0 . 1
+Rh2 Rh0+ 2 i 0.6573 0.3427 0.5 . 1
+Ga2 Ga0+ 1 d 0.5 0 0 . 1
+Ga3 Ga0+ 1 c 0 0.5 0 . 1
+Ga4 Ga0+ 1 f 0.5 0 0.5 . 1
+Ga5 Ga0+ 1 g 0 0.5 0.5 . 1
+Ga6 Ga0+ 2 i 0.3409 0.3409 0.2684 . 1
+Ga7 Ga0+ 2 i 0.8409 0.1591 0.7684 . 1
+Ga8 Ga0+ 2 i 0.6282 0.6282 0.224 . 1
+Ga9 Ga0+ 2 i 0.1282 -0.1282 0.724 . 1
+#End of TTdata_129707-ICSD
