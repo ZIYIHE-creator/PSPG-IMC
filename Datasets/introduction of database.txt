@@ -1,0 +1,9 @@
+For the 843 identified stoichiometric intermetallic compound datasets, after removing 8 outlier samples, 540 structures were found in the Materials Project database and 73 structures in Open Quantum Materials Database (OQMD), giving a total of 613 entries.
+
+These compounds consist of 55 elements, including Au, Al, B, Bi, Ca, Cu, Ce, Co, Cr, Dy, Eu, Er, Fe, Ga, Ge, Gd, Ho, Hf, Ir, In, La, Li, Lu, Mg, Mn, Na, Ni, Nb, Nd, Pd, Pb, Pt, Pr, Ru, Rh, S, Sc, Se, Si, Sm, Sn, Sr, Ta, Tb, Te, Ti, Th, Tl, Tm, U, V, Yb, Y, Zn, and Zr.
+
+Among them:
+
+591 binary intermetallic compounds (521 from Materials Project and 70 from OQMD)
+
+22 ternary intermetallic compounds (19 from Materials Project and 3 from OQMD).
