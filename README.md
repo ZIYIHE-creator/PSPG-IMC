@@ -1,6 +1,6 @@
 # Enabling data‑efficient prediction of Gibbs free energies of formation for intermetallic compounds with PSPG‑IMC
 
-This repository contains **PSPG‑IMC**, a lightweight and physically guided machine‑learning workflow designed to predict the **Gibbs free energy of formation (ΔG_f)** for intermetallic compounds (IMCs).  
+This repository contains **PSPG‑IMC**, a lightweight and physically guided machine‑learning workflow designed to predict the **Gibbs free energy of formation ($\Delta$$G_{f}$)** for intermetallic compounds (IMCs).  
 The pipeline leverages **XGBoost ensemble models** and **physics‑informed feature engineering**, enabling accurate predictions on **small datasets** without requiring additional DFT calculations.
 
 ---
