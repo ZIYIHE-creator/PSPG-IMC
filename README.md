@@ -28,6 +28,8 @@ Each `.py` module can:
 - Parse composition and structural information  
 - Generate descriptors such as C, PLMF, new_PLMF, or MP features. The PLMF descriptor follows the methodology proposed by Isayev et al. (2017), while the implementation used in this repository is independently developed and provided by our team.  
 
+Each feature‑extraction subdirectory also provides a .yml environment configuration file required to run the corresponding scripts.
+
 To extract features, run the corresponding featurizer script.  
 For example:
 
@@ -67,6 +69,11 @@ For **new structures**, simply:
 1-Krajewski, A. M., et al. Extensible structure-informed prediction of formation energy with improved accuracy and usability employing neural networks. Comput. Mater. Sci. 208, 111254 (2022).
 
 2-Isayev, O., et al. Universal fragment descriptors for predicting properties of inorganic crystals. Nat. Commun. 8, 15679 (2017).
+
+## How to Cite This Work
+
+This work is currently under peer review. Once the corresponding paper is published, 
+please cite it when using the code, descriptors, or datasets provided in this repository.
 
 ---
 
