@@ -65,6 +65,7 @@ For **new structures**, simply:
 ## 📚 References
 
 1-Krajewski, A. M., et al. Extensible structure-informed prediction of formation energy with improved accuracy and usability employing neural networks. Comput. Mater. Sci. 208, 111254 (2022).
+
 2-Isayev, O., et al. Universal fragment descriptors for predicting properties of inorganic crystals. Nat. Commun. 8, 15679 (2017).
 
 ---
