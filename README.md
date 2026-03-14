@@ -32,7 +32,7 @@ For example:
 
 python Featurizer/PLMF/new_PLMF.py
 
-Users may freely combine or replace descriptors by selecting modules from:
+Users may freely combine or replace descriptors by selecting modules from: `Model training/cp_app.descriptors`
 
 ---
 
