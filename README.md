@@ -43,7 +43,7 @@ The main workflow is demonstrated in: `Model training/main.ipynb`
 This notebook includes:
 
 - Training an XGBoost model using the **C + new_PLMF_200D** descriptor set  
-- Predicting ΔG_f for **8 out‑of‑distribution (OOD)** intermetallic compounds  
+- Predicting ΔG_f for **7 out‑of‑distribution (OOD)** intermetallic compounds  
 - Visualizing model performance and feature importance  
 
 If you wish to use **different descriptors**:
