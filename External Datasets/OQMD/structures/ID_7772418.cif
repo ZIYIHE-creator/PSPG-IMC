@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Gd2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11772094
+_cell_length_b   4.99438220
+_cell_length_c   9.05578603
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Au
+_chemical_formula_sum   'Gd8 Au4'
+_cell_volume   321.92068472
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.25944122  0.75000000  0.09806233  1
+  Au  Au1  1  0.75944122  0.75000000  0.40193767  1
+  Au  Au2  1  0.24055878  0.25000000  0.59806233  1
+  Au  Au3  1  0.74055878  0.25000000  0.90193767  1
+  Gd  Gd4  1  0.84862279  0.75000000  0.08280689  1
+  Gd  Gd5  1  0.51075481  0.25000000  0.17716645  1
+  Gd  Gd6  1  0.01075481  0.25000000  0.32283355  1
+  Gd  Gd7  1  0.34862279  0.75000000  0.41719311  1
+  Gd  Gd8  1  0.65137721  0.25000000  0.58280689  1
+  Gd  Gd9  1  0.98924519  0.75000000  0.67716645  1
+  Gd  Gd10  1  0.48924519  0.75000000  0.82283355  1
+  Gd  Gd11  1  0.15137721  0.25000000  0.91719311  1
