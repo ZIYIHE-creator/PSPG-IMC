@@ -1,0 +1,1608 @@
+{
+  "results": [
+    {
+      "index": 1,
+      "dir_name": "01_CrSe2_10313",
+      "formula": "CrSe2",
+      "coll_code": "10313",
+      "elements": [
+        "Cr",
+        "Se"
+      ],
+      "n_atoms_uc": 3,
+      "Etot_eV": -17.865282,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -17.986226,
+          "F_phonon_kJmol": -11.6693,
+          "F_phonon_eV": -0.120944,
+          "S_JKmol": 115.322,
+          "Cv_JKmol": 69.6544
+        },
+        "350": {
+          "G_eV": -18.048854,
+          "F_phonon_kJmol": -17.7119,
+          "F_phonon_eV": -0.183572,
+          "S_JKmol": 126.1285,
+          "Cv_JKmol": 70.5119
+        },
+        "400": {
+          "G_eV": -18.116717,
+          "F_phonon_kJmol": -24.2596,
+          "F_phonon_eV": -0.251434,
+          "S_JKmol": 135.5835,
+          "Cv_JKmol": 71.0789
+        },
+        "450": {
+          "G_eV": -18.189194,
+          "F_phonon_kJmol": -31.2526,
+          "F_phonon_eV": -0.323912,
+          "S_JKmol": 143.9794,
+          "Cv_JKmol": 71.4726
+        },
+        "500": {
+          "G_eV": -18.265795,
+          "F_phonon_kJmol": -38.6435,
+          "F_phonon_eV": -0.400513,
+          "S_JKmol": 151.5253,
+          "Cv_JKmol": 71.7566
+        },
+        "550": {
+          "G_eV": -18.34612,
+          "F_phonon_kJmol": -46.3936,
+          "F_phonon_eV": -0.480837,
+          "S_JKmol": 158.3748,
+          "Cv_JKmol": 71.9681
+        },
+        "600": {
+          "G_eV": -18.429839,
+          "F_phonon_kJmol": -54.4713,
+          "F_phonon_eV": -0.564557,
+          "S_JKmol": 164.6441,
+          "Cv_JKmol": 72.1297
+        },
+        "650": {
+          "G_eV": -18.516677,
+          "F_phonon_kJmol": -62.8498,
+          "F_phonon_eV": -0.651395,
+          "S_JKmol": 170.4227,
+          "Cv_JKmol": 72.2559
+        },
+        "700": {
+          "G_eV": -18.606398,
+          "F_phonon_kJmol": -71.5066,
+          "F_phonon_eV": -0.741116,
+          "S_JKmol": 175.7813,
+          "Cv_JKmol": 72.3564
+        },
+        "750": {
+          "G_eV": -18.6988,
+          "F_phonon_kJmol": -80.4219,
+          "F_phonon_eV": -0.833517,
+          "S_JKmol": 180.7762,
+          "Cv_JKmol": 72.4376
+        },
+        "800": {
+          "G_eV": -18.793705,
+          "F_phonon_kJmol": -89.5789,
+          "F_phonon_eV": -0.928423,
+          "S_JKmol": 185.4534,
+          "Cv_JKmol": 72.5042
+        },
+        "850": {
+          "G_eV": -18.890961,
+          "F_phonon_kJmol": -98.9626,
+          "F_phonon_eV": -1.025679,
+          "S_JKmol": 189.8507,
+          "Cv_JKmol": 72.5595
+        },
+        "900": {
+          "G_eV": -18.99043,
+          "F_phonon_kJmol": -108.5598,
+          "F_phonon_eV": -1.125147,
+          "S_JKmol": 193.9994,
+          "Cv_JKmol": 72.6059
+        },
+        "950": {
+          "G_eV": -19.09199,
+          "F_phonon_kJmol": -118.3588,
+          "F_phonon_eV": -1.226707,
+          "S_JKmol": 197.9261,
+          "Cv_JKmol": 72.6452
+        },
+        "1000": {
+          "G_eV": -19.195532,
+          "F_phonon_kJmol": -128.3491,
+          "F_phonon_eV": -1.330249,
+          "S_JKmol": 201.6532,
+          "Cv_JKmol": 72.6788
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 3,
+      "dir_name": "03_Ga3Ir_148915",
+      "formula": "Ga3Ir",
+      "coll_code": "148915",
+      "elements": [
+        "Ga",
+        "Ir"
+      ],
+      "n_atoms_uc": 16,
+      "Etot_eV": -76.432003,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -77.099179,
+          "F_phonon_kJmol": -64.3725,
+          "F_phonon_eV": -0.667176,
+          "S_JKmol": 613.3971,
+          "Cv_JKmol": 361.9209
+        },
+        "350": {
+          "G_eV": -77.431946,
+          "F_phonon_kJmol": -96.4795,
+          "F_phonon_eV": -0.999943,
+          "S_JKmol": 669.557,
+          "Cv_JKmol": 366.5051
+        },
+        "400": {
+          "G_eV": -77.791922,
+          "F_phonon_kJmol": -131.2118,
+          "F_phonon_eV": -1.359919,
+          "S_JKmol": 718.7092,
+          "Cv_JKmol": 369.5594
+        },
+        "450": {
+          "G_eV": -78.175891,
+          "F_phonon_kJmol": -168.2591,
+          "F_phonon_eV": -1.743888,
+          "S_JKmol": 762.3672,
+          "Cv_JKmol": 371.6905
+        },
+        "500": {
+          "G_eV": -78.581302,
+          "F_phonon_kJmol": -207.3751,
+          "F_phonon_eV": -2.149299,
+          "S_JKmol": 801.6127,
+          "Cv_JKmol": 373.2339
+        },
+        "550": {
+          "G_eV": -79.006084,
+          "F_phonon_kJmol": -248.3602,
+          "F_phonon_eV": -2.574081,
+          "S_JKmol": 837.2423,
+          "Cv_JKmol": 374.3862
+        },
+        "600": {
+          "G_eV": -79.448526,
+          "F_phonon_kJmol": -291.0492,
+          "F_phonon_eV": -3.016523,
+          "S_JKmol": 869.8576,
+          "Cv_JKmol": 375.2686
+        },
+        "650": {
+          "G_eV": -79.907191,
+          "F_phonon_kJmol": -335.3035,
+          "F_phonon_eV": -3.475188,
+          "S_JKmol": 899.9235,
+          "Cv_JKmol": 375.9589
+        },
+        "700": {
+          "G_eV": -80.380857,
+          "F_phonon_kJmol": -381.0052,
+          "F_phonon_eV": -3.948854,
+          "S_JKmol": 927.8059,
+          "Cv_JKmol": 376.5089
+        },
+        "750": {
+          "G_eV": -80.868471,
+          "F_phonon_kJmol": -428.0526,
+          "F_phonon_eV": -4.436468,
+          "S_JKmol": 953.798,
+          "Cv_JKmol": 376.954
+        },
+        "800": {
+          "G_eV": -81.369117,
+          "F_phonon_kJmol": -476.3575,
+          "F_phonon_eV": -4.937114,
+          "S_JKmol": 978.1381,
+          "Cv_JKmol": 377.3193
+        },
+        "850": {
+          "G_eV": -81.881992,
+          "F_phonon_kJmol": -525.8422,
+          "F_phonon_eV": -5.449989,
+          "S_JKmol": 1001.0223,
+          "Cv_JKmol": 377.6228
+        },
+        "900": {
+          "G_eV": -82.406384,
+          "F_phonon_kJmol": -576.4382,
+          "F_phonon_eV": -5.974381,
+          "S_JKmol": 1022.6141,
+          "Cv_JKmol": 377.8775
+        },
+        "950": {
+          "G_eV": -82.941661,
+          "F_phonon_kJmol": -628.0843,
+          "F_phonon_eV": -6.509658,
+          "S_JKmol": 1043.0508,
+          "Cv_JKmol": 378.0934
+        },
+        "1000": {
+          "G_eV": -83.487255,
+          "F_phonon_kJmol": -680.726,
+          "F_phonon_eV": -7.055252,
+          "S_JKmol": 1062.4493,
+          "Cv_JKmol": 378.278
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 4,
+      "dir_name": "04_ZnIr_17490",
+      "formula": "ZnIr",
+      "coll_code": "17490",
+      "elements": [
+        "Zn",
+        "Ir"
+      ],
+      "n_atoms_uc": 2,
+      "Etot_eV": -10.30215,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -10.376516,
+          "F_phonon_kJmol": -7.1752,
+          "F_phonon_eV": -0.074366,
+          "S_JKmol": 75.1254,
+          "Cv_JKmol": 47.2019
+        },
+        "350": {
+          "G_eV": -10.417389,
+          "F_phonon_kJmol": -11.1188,
+          "F_phonon_eV": -0.115239,
+          "S_JKmol": 82.4428,
+          "Cv_JKmol": 47.7118
+        },
+        "400": {
+          "G_eV": -10.461803,
+          "F_phonon_kJmol": -15.4042,
+          "F_phonon_eV": -0.159654,
+          "S_JKmol": 88.8372,
+          "Cv_JKmol": 48.0484
+        },
+        "450": {
+          "G_eV": -10.509338,
+          "F_phonon_kJmol": -19.9905,
+          "F_phonon_eV": -0.207188,
+          "S_JKmol": 94.5108,
+          "Cv_JKmol": 48.2817
+        },
+        "500": {
+          "G_eV": -10.559658,
+          "F_phonon_kJmol": -24.8456,
+          "F_phonon_eV": -0.257508,
+          "S_JKmol": 99.6069,
+          "Cv_JKmol": 48.4499
+        },
+        "550": {
+          "G_eV": -10.612492,
+          "F_phonon_kJmol": -29.9434,
+          "F_phonon_eV": -0.310342,
+          "S_JKmol": 104.2308,
+          "Cv_JKmol": 48.575
+        },
+        "600": {
+          "G_eV": -10.667618,
+          "F_phonon_kJmol": -35.2622,
+          "F_phonon_eV": -0.365468,
+          "S_JKmol": 108.4617,
+          "Cv_JKmol": 48.6706
+        },
+        "650": {
+          "G_eV": -10.724848,
+          "F_phonon_kJmol": -40.784,
+          "F_phonon_eV": -0.422698,
+          "S_JKmol": 112.3605,
+          "Cv_JKmol": 48.7452
+        },
+        "700": {
+          "G_eV": -10.784023,
+          "F_phonon_kJmol": -46.4935,
+          "F_phonon_eV": -0.481873,
+          "S_JKmol": 115.9751,
+          "Cv_JKmol": 48.8046
+        },
+        "750": {
+          "G_eV": -10.845006,
+          "F_phonon_kJmol": -52.3774,
+          "F_phonon_eV": -0.542856,
+          "S_JKmol": 119.344,
+          "Cv_JKmol": 48.8526
+        },
+        "800": {
+          "G_eV": -10.907677,
+          "F_phonon_kJmol": -58.4243,
+          "F_phonon_eV": -0.605528,
+          "S_JKmol": 122.4982,
+          "Cv_JKmol": 48.892
+        },
+        "850": {
+          "G_eV": -10.971934,
+          "F_phonon_kJmol": -64.6241,
+          "F_phonon_eV": -0.669784,
+          "S_JKmol": 125.4632,
+          "Cv_JKmol": 48.9246
+        },
+        "900": {
+          "G_eV": -11.037682,
+          "F_phonon_kJmol": -70.9679,
+          "F_phonon_eV": -0.735533,
+          "S_JKmol": 128.2605,
+          "Cv_JKmol": 48.952
+        },
+        "950": {
+          "G_eV": -11.104841,
+          "F_phonon_kJmol": -77.4477,
+          "F_phonon_eV": -0.802691,
+          "S_JKmol": 130.9078,
+          "Cv_JKmol": 48.9752
+        },
+        "1000": {
+          "G_eV": -11.173336,
+          "F_phonon_kJmol": -84.0564,
+          "F_phonon_eV": -0.871186,
+          "S_JKmol": 133.4204,
+          "Cv_JKmol": 48.9951
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 7,
+      "dir_name": "07_TaAl3_210522",
+      "formula": "TaAl3",
+      "coll_code": "210522",
+      "elements": [
+        "Al",
+        "Ta"
+      ],
+      "n_atoms_uc": 8,
+      "Etot_eV": -48.689737,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -48.648237,
+          "F_phonon_kJmol": 4.0041,
+          "F_phonon_eV": 0.0415,
+          "S_JKmol": 98.8026,
+          "Cv_JKmol": 88.2188
+        },
+        "350": {
+          "G_eV": -48.703094,
+          "F_phonon_kJmol": -1.2887,
+          "F_phonon_eV": -0.013357,
+          "S_JKmol": 112.6296,
+          "Cv_JKmol": 91.0562
+        },
+        "400": {
+          "G_eV": -48.764705,
+          "F_phonon_kJmol": -7.2333,
+          "F_phonon_eV": -0.074968,
+          "S_JKmol": 124.9219,
+          "Cv_JKmol": 92.9813
+        },
+        "450": {
+          "G_eV": -48.83235,
+          "F_phonon_kJmol": -13.76,
+          "F_phonon_eV": -0.142613,
+          "S_JKmol": 135.9564,
+          "Cv_JKmol": 94.3412
+        },
+        "500": {
+          "G_eV": -48.905435,
+          "F_phonon_kJmol": -20.8116,
+          "F_phonon_eV": -0.215698,
+          "S_JKmol": 145.9503,
+          "Cv_JKmol": 95.3346
+        },
+        "550": {
+          "G_eV": -48.983467,
+          "F_phonon_kJmol": -28.3405,
+          "F_phonon_eV": -0.29373,
+          "S_JKmol": 155.0733,
+          "Cv_JKmol": 96.0809
+        },
+        "600": {
+          "G_eV": -49.066031,
+          "F_phonon_kJmol": -36.3067,
+          "F_phonon_eV": -0.376293,
+          "S_JKmol": 163.4591,
+          "Cv_JKmol": 96.6552
+        },
+        "650": {
+          "G_eV": -49.152772,
+          "F_phonon_kJmol": -44.6759,
+          "F_phonon_eV": -0.463035,
+          "S_JKmol": 171.2141,
+          "Cv_JKmol": 97.1061
+        },
+        "700": {
+          "G_eV": -49.243388,
+          "F_phonon_kJmol": -53.419,
+          "F_phonon_eV": -0.553651,
+          "S_JKmol": 178.4241,
+          "Cv_JKmol": 97.4664
+        },
+        "750": {
+          "G_eV": -49.337614,
+          "F_phonon_kJmol": -62.5104,
+          "F_phonon_eV": -0.647877,
+          "S_JKmol": 185.1589,
+          "Cv_JKmol": 97.7588
+        },
+        "800": {
+          "G_eV": -49.43522,
+          "F_phonon_kJmol": -71.9279,
+          "F_phonon_eV": -0.745483,
+          "S_JKmol": 191.476,
+          "Cv_JKmol": 97.9991
+        },
+        "850": {
+          "G_eV": -49.536002,
+          "F_phonon_kJmol": -81.6519,
+          "F_phonon_eV": -0.846265,
+          "S_JKmol": 197.4234,
+          "Cv_JKmol": 98.1991
+        },
+        "900": {
+          "G_eV": -49.639779,
+          "F_phonon_kJmol": -91.6648,
+          "F_phonon_eV": -0.950042,
+          "S_JKmol": 203.0412,
+          "Cv_JKmol": 98.3671
+        },
+        "950": {
+          "G_eV": -49.746389,
+          "F_phonon_kJmol": -101.9511,
+          "F_phonon_eV": -1.056652,
+          "S_JKmol": 208.3635,
+          "Cv_JKmol": 98.5098
+        },
+        "1000": {
+          "G_eV": -49.855687,
+          "F_phonon_kJmol": -112.4967,
+          "F_phonon_eV": -1.16595,
+          "S_JKmol": 213.4196,
+          "Cv_JKmol": 98.6318
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 8,
+      "dir_name": "08_Al3V_210535",
+      "formula": "Al3V",
+      "coll_code": "210535",
+      "elements": [
+        "Al",
+        "V"
+      ],
+      "n_atoms_uc": 8,
+      "Etot_eV": -42.626496,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -42.537281,
+          "F_phonon_kJmol": 8.6079,
+          "F_phonon_eV": 0.089215,
+          "S_JKmol": 85.5082,
+          "Cv_JKmol": 86.3474
+        },
+        "350": {
+          "G_eV": -42.585179,
+          "F_phonon_kJmol": 3.9865,
+          "F_phonon_eV": 0.041318,
+          "S_JKmol": 99.0825,
+          "Cv_JKmol": 89.6316
+        },
+        "400": {
+          "G_eV": -42.639723,
+          "F_phonon_kJmol": -1.2762,
+          "F_phonon_eV": -0.013227,
+          "S_JKmol": 111.2059,
+          "Cv_JKmol": 91.8645
+        },
+        "450": {
+          "G_eV": -42.700228,
+          "F_phonon_kJmol": -7.114,
+          "F_phonon_eV": -0.073731,
+          "S_JKmol": 122.1223,
+          "Cv_JKmol": 93.4441
+        },
+        "500": {
+          "G_eV": -42.76612,
+          "F_phonon_kJmol": -13.4716,
+          "F_phonon_eV": -0.139624,
+          "S_JKmol": 132.0304,
+          "Cv_JKmol": 94.5992
+        },
+        "550": {
+          "G_eV": -42.836921,
+          "F_phonon_kJmol": -20.3029,
+          "F_phonon_eV": -0.210425,
+          "S_JKmol": 141.0893,
+          "Cv_JKmol": 95.4677
+        },
+        "600": {
+          "G_eV": -42.912225,
+          "F_phonon_kJmol": -27.5685,
+          "F_phonon_eV": -0.285729,
+          "S_JKmol": 149.4259,
+          "Cv_JKmol": 96.1363
+        },
+        "650": {
+          "G_eV": -42.991684,
+          "F_phonon_kJmol": -35.2351,
+          "F_phonon_eV": -0.365188,
+          "S_JKmol": 157.1425,
+          "Cv_JKmol": 96.6616
+        },
+        "700": {
+          "G_eV": -43.075,
+          "F_phonon_kJmol": -43.2738,
+          "F_phonon_eV": -0.448503,
+          "S_JKmol": 164.3218,
+          "Cv_JKmol": 97.0814
+        },
+        "750": {
+          "G_eV": -43.161911,
+          "F_phonon_kJmol": -51.6595,
+          "F_phonon_eV": -0.535415,
+          "S_JKmol": 171.0318,
+          "Cv_JKmol": 97.4222
+        },
+        "800": {
+          "G_eV": -43.252191,
+          "F_phonon_kJmol": -60.3701,
+          "F_phonon_eV": -0.625694,
+          "S_JKmol": 177.3285,
+          "Cv_JKmol": 97.7024
+        },
+        "850": {
+          "G_eV": -43.345637,
+          "F_phonon_kJmol": -69.3862,
+          "F_phonon_eV": -0.71914,
+          "S_JKmol": 183.2588,
+          "Cv_JKmol": 97.9355
+        },
+        "900": {
+          "G_eV": -43.442069,
+          "F_phonon_kJmol": -78.6906,
+          "F_phonon_eV": -0.815573,
+          "S_JKmol": 188.8624,
+          "Cv_JKmol": 98.1316
+        },
+        "950": {
+          "G_eV": -43.541329,
+          "F_phonon_kJmol": -88.2676,
+          "F_phonon_eV": -0.914832,
+          "S_JKmol": 194.1727,
+          "Cv_JKmol": 98.2979
+        },
+        "1000": {
+          "G_eV": -43.64327,
+          "F_phonon_kJmol": -98.1034,
+          "F_phonon_eV": -1.016774,
+          "S_JKmol": 199.2184,
+          "Cv_JKmol": 98.4403
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 9,
+      "dir_name": "09_RuSe2_217949",
+      "formula": "RuSe2",
+      "coll_code": "217949",
+      "elements": [
+        "Se",
+        "Ru"
+      ],
+      "n_atoms_uc": 12,
+      "Etot_eV": -69.983079,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -70.031445,
+          "F_phonon_kJmol": -4.6666,
+          "F_phonon_eV": -0.048366,
+          "S_JKmol": 338.6575,
+          "Cv_JKmol": 276.4328
+        },
+        "350": {
+          "G_eV": -70.218353,
+          "F_phonon_kJmol": -22.7004,
+          "F_phonon_eV": -0.235274,
+          "S_JKmol": 381.739,
+          "Cv_JKmol": 282.2504
+        },
+        "400": {
+          "G_eV": -70.426208,
+          "F_phonon_kJmol": -42.7553,
+          "F_phonon_eV": -0.443129,
+          "S_JKmol": 419.6974,
+          "Cv_JKmol": 286.1218
+        },
+        "450": {
+          "G_eV": -70.652635,
+          "F_phonon_kJmol": -64.6021,
+          "F_phonon_eV": -0.669556,
+          "S_JKmol": 453.5625,
+          "Cv_JKmol": 288.8208
+        },
+        "500": {
+          "G_eV": -70.89572,
+          "F_phonon_kJmol": -88.0562,
+          "F_phonon_eV": -0.912641,
+          "S_JKmol": 484.0992,
+          "Cv_JKmol": 290.7741
+        },
+        "550": {
+          "G_eV": -71.153896,
+          "F_phonon_kJmol": -112.9662,
+          "F_phonon_eV": -1.170817,
+          "S_JKmol": 511.8845,
+          "Cv_JKmol": 292.2316
+        },
+        "600": {
+          "G_eV": -71.425855,
+          "F_phonon_kJmol": -139.2062,
+          "F_phonon_eV": -1.442776,
+          "S_JKmol": 537.3619,
+          "Cv_JKmol": 293.3474
+        },
+        "650": {
+          "G_eV": -71.710496,
+          "F_phonon_kJmol": -166.6698,
+          "F_phonon_eV": -1.727416,
+          "S_JKmol": 560.878,
+          "Cv_JKmol": 294.22
+        },
+        "700": {
+          "G_eV": -72.006875,
+          "F_phonon_kJmol": -195.266,
+          "F_phonon_eV": -2.023796,
+          "S_JKmol": 582.7084,
+          "Cv_JKmol": 294.915
+        },
+        "750": {
+          "G_eV": -72.31418,
+          "F_phonon_kJmol": -224.9162,
+          "F_phonon_eV": -2.331101,
+          "S_JKmol": 603.0753,
+          "Cv_JKmol": 295.4775
+        },
+        "800": {
+          "G_eV": -72.6317,
+          "F_phonon_kJmol": -255.5521,
+          "F_phonon_eV": -2.64862,
+          "S_JKmol": 622.1602,
+          "Cv_JKmol": 295.939
+        },
+        "850": {
+          "G_eV": -72.95881,
+          "F_phonon_kJmol": -287.1134,
+          "F_phonon_eV": -2.975731,
+          "S_JKmol": 640.1132,
+          "Cv_JKmol": 296.3223
+        },
+        "900": {
+          "G_eV": -73.294959,
+          "F_phonon_kJmol": -319.5467,
+          "F_phonon_eV": -3.31188,
+          "S_JKmol": 657.0599,
+          "Cv_JKmol": 296.644
+        },
+        "950": {
+          "G_eV": -73.639652,
+          "F_phonon_kJmol": -352.8044,
+          "F_phonon_eV": -3.656573,
+          "S_JKmol": 673.1061,
+          "Cv_JKmol": 296.9167
+        },
+        "1000": {
+          "G_eV": -73.992447,
+          "F_phonon_kJmol": -386.8438,
+          "F_phonon_eV": -4.009367,
+          "S_JKmol": 688.342,
+          "Cv_JKmol": 297.1498
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 10,
+      "dir_name": "10_CrTe2_221040",
+      "formula": "CrTe2",
+      "coll_code": "221040",
+      "elements": [
+        "Cr",
+        "Te"
+      ],
+      "n_atoms_uc": 3,
+      "Etot_eV": -16.363303,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -16.526269,
+          "F_phonon_kJmol": -15.7238,
+          "F_phonon_eV": -0.162966,
+          "S_JKmol": 129.8808,
+          "Cv_JKmol": 72.2273
+        },
+        "350": {
+          "G_eV": -16.596544,
+          "F_phonon_kJmol": -22.5043,
+          "F_phonon_eV": -0.233241,
+          "S_JKmol": 141.0686,
+          "Cv_JKmol": 72.895
+        },
+        "400": {
+          "G_eV": -16.672232,
+          "F_phonon_kJmol": -29.807,
+          "F_phonon_eV": -0.308929,
+          "S_JKmol": 150.8331,
+          "Cv_JKmol": 73.3355
+        },
+        "450": {
+          "G_eV": -16.752681,
+          "F_phonon_kJmol": -37.5692,
+          "F_phonon_eV": -0.389378,
+          "S_JKmol": 159.4894,
+          "Cv_JKmol": 73.6408
+        },
+        "500": {
+          "G_eV": -16.837379,
+          "F_phonon_kJmol": -45.7412,
+          "F_phonon_eV": -0.474076,
+          "S_JKmol": 167.2602,
+          "Cv_JKmol": 73.8608
+        },
+        "550": {
+          "G_eV": -16.92591,
+          "F_phonon_kJmol": -54.2832,
+          "F_phonon_eV": -0.562607,
+          "S_JKmol": 174.3079,
+          "Cv_JKmol": 74.0245
+        },
+        "600": {
+          "G_eV": -17.017933,
+          "F_phonon_kJmol": -63.162,
+          "F_phonon_eV": -0.65463,
+          "S_JKmol": 180.7545,
+          "Cv_JKmol": 74.1496
+        },
+        "650": {
+          "G_eV": -17.113162,
+          "F_phonon_kJmol": -72.3502,
+          "F_phonon_eV": -0.749859,
+          "S_JKmol": 186.6937,
+          "Cv_JKmol": 74.2472
+        },
+        "700": {
+          "G_eV": -17.211353,
+          "F_phonon_kJmol": -81.8242,
+          "F_phonon_eV": -0.848051,
+          "S_JKmol": 192.1989,
+          "Cv_JKmol": 74.3249
+        },
+        "750": {
+          "G_eV": -17.312298,
+          "F_phonon_kJmol": -91.5638,
+          "F_phonon_eV": -0.948995,
+          "S_JKmol": 197.329,
+          "Cv_JKmol": 74.3876
+        },
+        "800": {
+          "G_eV": -17.415815,
+          "F_phonon_kJmol": -101.5516,
+          "F_phonon_eV": -1.052512,
+          "S_JKmol": 202.1316,
+          "Cv_JKmol": 74.4391
+        },
+        "850": {
+          "G_eV": -17.521744,
+          "F_phonon_kJmol": -111.7722,
+          "F_phonon_eV": -1.158441,
+          "S_JKmol": 206.6457,
+          "Cv_JKmol": 74.4818
+        },
+        "900": {
+          "G_eV": -17.629945,
+          "F_phonon_kJmol": -122.2119,
+          "F_phonon_eV": -1.266642,
+          "S_JKmol": 210.904,
+          "Cv_JKmol": 74.5176
+        },
+        "950": {
+          "G_eV": -17.740292,
+          "F_phonon_kJmol": -132.8588,
+          "F_phonon_eV": -1.376989,
+          "S_JKmol": 214.9338,
+          "Cv_JKmol": 74.548
+        },
+        "1000": {
+          "G_eV": -17.852673,
+          "F_phonon_kJmol": -143.7019,
+          "F_phonon_eV": -1.48937,
+          "S_JKmol": 218.7583,
+          "Cv_JKmol": 74.5739
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 11,
+      "dir_name": "11_CaAg2_230486",
+      "formula": "CaAg2",
+      "coll_code": "230486",
+      "elements": [
+        "Ca",
+        "Ag"
+      ],
+      "n_atoms_uc": 12,
+      "Etot_eV": -33.103142,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -33.471822,
+          "F_phonon_kJmol": -35.572,
+          "F_phonon_eV": -0.368679,
+          "S_JKmol": 271.8247,
+          "Cv_JKmol": 146.1187
+        },
+        "350": {
+          "G_eV": -33.618685,
+          "F_phonon_kJmol": -49.7422,
+          "F_phonon_eV": -0.515543,
+          "S_JKmol": 294.4238,
+          "Cv_JKmol": 147.0437
+        },
+        "400": {
+          "G_eV": -33.776469,
+          "F_phonon_kJmol": -64.9659,
+          "F_phonon_eV": -0.673326,
+          "S_JKmol": 314.1009,
+          "Cv_JKmol": 147.6497
+        },
+        "450": {
+          "G_eV": -33.94384,
+          "F_phonon_kJmol": -81.1147,
+          "F_phonon_eV": -0.840697,
+          "S_JKmol": 331.5171,
+          "Cv_JKmol": 148.0676
+        },
+        "500": {
+          "G_eV": -34.119753,
+          "F_phonon_kJmol": -98.0877,
+          "F_phonon_eV": -1.016611,
+          "S_JKmol": 347.134,
+          "Cv_JKmol": 148.3679
+        },
+        "550": {
+          "G_eV": -34.303367,
+          "F_phonon_kJmol": -115.8037,
+          "F_phonon_eV": -1.200225,
+          "S_JKmol": 361.2859,
+          "Cv_JKmol": 148.5907
+        },
+        "600": {
+          "G_eV": -34.493991,
+          "F_phonon_kJmol": -134.196,
+          "F_phonon_eV": -1.390849,
+          "S_JKmol": 374.2226,
+          "Cv_JKmol": 148.7606
+        },
+        "650": {
+          "G_eV": -34.691046,
+          "F_phonon_kJmol": -153.2089,
+          "F_phonon_eV": -1.587904,
+          "S_JKmol": 386.1352,
+          "Cv_JKmol": 148.893
+        },
+        "700": {
+          "G_eV": -34.894043,
+          "F_phonon_kJmol": -172.795,
+          "F_phonon_eV": -1.7909,
+          "S_JKmol": 397.1734,
+          "Cv_JKmol": 148.9983
+        },
+        "750": {
+          "G_eV": -35.102559,
+          "F_phonon_kJmol": -192.9137,
+          "F_phonon_eV": -1.999416,
+          "S_JKmol": 407.4562,
+          "Cv_JKmol": 149.0833
+        },
+        "800": {
+          "G_eV": -35.316229,
+          "F_phonon_kJmol": -213.5297,
+          "F_phonon_eV": -2.213087,
+          "S_JKmol": 417.0801,
+          "Cv_JKmol": 149.1529
+        },
+        "850": {
+          "G_eV": -35.534733,
+          "F_phonon_kJmol": -234.612,
+          "F_phonon_eV": -2.431591,
+          "S_JKmol": 426.1242,
+          "Cv_JKmol": 149.2106
+        },
+        "900": {
+          "G_eV": -35.757788,
+          "F_phonon_kJmol": -256.1335,
+          "F_phonon_eV": -2.654646,
+          "S_JKmol": 434.6543,
+          "Cv_JKmol": 149.2591
+        },
+        "950": {
+          "G_eV": -35.985143,
+          "F_phonon_kJmol": -278.0698,
+          "F_phonon_eV": -2.882,
+          "S_JKmol": 442.7254,
+          "Cv_JKmol": 149.3001
+        },
+        "1000": {
+          "G_eV": -36.216571,
+          "F_phonon_kJmol": -300.3992,
+          "F_phonon_eV": -3.113429,
+          "S_JKmol": 450.3844,
+          "Cv_JKmol": 149.3351
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 12,
+      "dir_name": "12_CaGe2_230563",
+      "formula": "CaGe2",
+      "coll_code": "230563",
+      "elements": [
+        "Ca",
+        "Ge"
+      ],
+      "n_atoms_uc": 12,
+      "Etot_eV": -49.531914,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -49.88109,
+          "F_phonon_kJmol": -33.6902,
+          "F_phonon_eV": -0.349176,
+          "S_JKmol": 426.4678,
+          "Cv_JKmol": 284.8794
+        },
+        "350": {
+          "G_eV": -50.113818,
+          "F_phonon_kJmol": -56.145,
+          "F_phonon_eV": -0.581904,
+          "S_JKmol": 470.6822,
+          "Cv_JKmol": 288.5945
+        },
+        "400": {
+          "G_eV": -50.367971,
+          "F_phonon_kJmol": -80.6669,
+          "F_phonon_eV": -0.836057,
+          "S_JKmol": 509.3894,
+          "Cv_JKmol": 291.0497
+        },
+        "450": {
+          "G_eV": -50.64102,
+          "F_phonon_kJmol": -107.0121,
+          "F_phonon_eV": -1.109106,
+          "S_JKmol": 543.7742,
+          "Cv_JKmol": 292.7534
+        },
+        "500": {
+          "G_eV": -50.930957,
+          "F_phonon_kJmol": -134.9866,
+          "F_phonon_eV": -1.399042,
+          "S_JKmol": 574.6858,
+          "Cv_JKmol": 293.9824
+        },
+        "550": {
+          "G_eV": -51.236151,
+          "F_phonon_kJmol": -164.4333,
+          "F_phonon_eV": -1.704237,
+          "S_JKmol": 602.7503,
+          "Cv_JKmol": 294.8973
+        },
+        "600": {
+          "G_eV": -51.555256,
+          "F_phonon_kJmol": -195.2221,
+          "F_phonon_eV": -2.023342,
+          "S_JKmol": 628.441,
+          "Cv_JKmol": 295.5963
+        },
+        "650": {
+          "G_eV": -51.88714,
+          "F_phonon_kJmol": -227.244,
+          "F_phonon_eV": -2.355226,
+          "S_JKmol": 652.1237,
+          "Cv_JKmol": 296.1423
+        },
+        "700": {
+          "G_eV": -52.23084,
+          "F_phonon_kJmol": -260.4059,
+          "F_phonon_eV": -2.698926,
+          "S_JKmol": 674.0867,
+          "Cv_JKmol": 296.5767
+        },
+        "750": {
+          "G_eV": -52.585527,
+          "F_phonon_kJmol": -294.6278,
+          "F_phonon_eV": -3.053613,
+          "S_JKmol": 694.5608,
+          "Cv_JKmol": 296.928
+        },
+        "800": {
+          "G_eV": -52.95048,
+          "F_phonon_kJmol": -329.8403,
+          "F_phonon_eV": -3.418565,
+          "S_JKmol": 713.7336,
+          "Cv_JKmol": 297.216
+        },
+        "850": {
+          "G_eV": -53.325065,
+          "F_phonon_kJmol": -365.9821,
+          "F_phonon_eV": -3.79315,
+          "S_JKmol": 731.7596,
+          "Cv_JKmol": 297.455
+        },
+        "900": {
+          "G_eV": -53.708722,
+          "F_phonon_kJmol": -402.9993,
+          "F_phonon_eV": -4.176807,
+          "S_JKmol": 748.7675,
+          "Cv_JKmol": 297.6556
+        },
+        "950": {
+          "G_eV": -54.100953,
+          "F_phonon_kJmol": -440.8437,
+          "F_phonon_eV": -4.569039,
+          "S_JKmol": 764.8656,
+          "Cv_JKmol": 297.8255
+        },
+        "1000": {
+          "G_eV": -54.501311,
+          "F_phonon_kJmol": -479.4722,
+          "F_phonon_eV": -4.969396,
+          "S_JKmol": 780.1458,
+          "Cv_JKmol": 297.9707
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 14,
+      "dir_name": "14_Cd5Rh2_431913",
+      "formula": "Cd5Rh2",
+      "coll_code": "431913",
+      "elements": [
+        "Rh",
+        "Cd"
+      ],
+      "n_atoms_uc": 14,
+      "Etot_eV": -38.575007,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -39.324733,
+          "F_phonon_kJmol": -72.3373,
+          "F_phonon_eV": -0.749726,
+          "S_JKmol": 599.774,
+          "Cv_JKmol": 339.9109
+        },
+        "350": {
+          "G_eV": -39.649506,
+          "F_phonon_kJmol": -103.6731,
+          "F_phonon_eV": -1.074499,
+          "S_JKmol": 652.3676,
+          "Cv_JKmol": 342.3351
+        },
+        "400": {
+          "G_eV": -39.999701,
+          "F_phonon_kJmol": -137.4616,
+          "F_phonon_eV": -1.424694,
+          "S_JKmol": 698.1908,
+          "Cv_JKmol": 343.9246
+        },
+        "450": {
+          "G_eV": -40.372229,
+          "F_phonon_kJmol": -173.4049,
+          "F_phonon_eV": -1.797222,
+          "S_JKmol": 738.7663,
+          "Cv_JKmol": 345.0218
+        },
+        "500": {
+          "G_eV": -40.764661,
+          "F_phonon_kJmol": -211.2687,
+          "F_phonon_eV": -2.189654,
+          "S_JKmol": 775.161,
+          "Cv_JKmol": 345.8103
+        },
+        "550": {
+          "G_eV": -41.175042,
+          "F_phonon_kJmol": -250.8643,
+          "F_phonon_eV": -2.600035,
+          "S_JKmol": 808.149,
+          "Cv_JKmol": 346.3957
+        },
+        "600": {
+          "G_eV": -41.601763,
+          "F_phonon_kJmol": -292.0366,
+          "F_phonon_eV": -3.026756,
+          "S_JKmol": 838.3093,
+          "Cv_JKmol": 346.8422
+        },
+        "650": {
+          "G_eV": -42.04348,
+          "F_phonon_kJmol": -334.6556,
+          "F_phonon_eV": -3.468473,
+          "S_JKmol": 866.0858,
+          "Cv_JKmol": 347.1903
+        },
+        "700": {
+          "G_eV": -42.49905,
+          "F_phonon_kJmol": -378.6113,
+          "F_phonon_eV": -3.924043,
+          "S_JKmol": 891.8259,
+          "Cv_JKmol": 347.4669
+        },
+        "750": {
+          "G_eV": -42.967492,
+          "F_phonon_kJmol": -423.8089,
+          "F_phonon_eV": -4.392485,
+          "S_JKmol": 915.8065,
+          "Cv_JKmol": 347.6904
+        },
+        "800": {
+          "G_eV": -43.447955,
+          "F_phonon_kJmol": -470.1663,
+          "F_phonon_eV": -4.872948,
+          "S_JKmol": 938.252,
+          "Cv_JKmol": 347.8735
+        },
+        "850": {
+          "G_eV": -43.939692,
+          "F_phonon_kJmol": -517.6116,
+          "F_phonon_eV": -5.364685,
+          "S_JKmol": 959.3464,
+          "Cv_JKmol": 348.0253
+        },
+        "900": {
+          "G_eV": -44.442044,
+          "F_phonon_kJmol": -566.081,
+          "F_phonon_eV": -5.867037,
+          "S_JKmol": 979.2427,
+          "Cv_JKmol": 348.1527
+        },
+        "950": {
+          "G_eV": -44.954424,
+          "F_phonon_kJmol": -615.518,
+          "F_phonon_eV": -6.379417,
+          "S_JKmol": 998.0693,
+          "Cv_JKmol": 348.2605
+        },
+        "1000": {
+          "G_eV": -45.476307,
+          "F_phonon_kJmol": -665.872,
+          "F_phonon_eV": -6.9013,
+          "S_JKmol": 1015.9351,
+          "Cv_JKmol": 348.3526
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 15,
+      "dir_name": "15_Te2Ir_4643",
+      "formula": "Te2Ir",
+      "coll_code": "4643",
+      "elements": [
+        "Te",
+        "Ir"
+      ],
+      "n_atoms_uc": 18,
+      "Etot_eV": -96.061508,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -96.414903,
+          "F_phonon_kJmol": -34.0974,
+          "F_phonon_eV": -0.353395,
+          "S_JKmol": 346.3736,
+          "Cv_JKmol": 216.4196
+        },
+        "350": {
+          "G_eV": -96.603297,
+          "F_phonon_kJmol": -52.2745,
+          "F_phonon_eV": -0.541789,
+          "S_JKmol": 379.9043,
+          "Cv_JKmol": 218.5159
+        },
+        "400": {
+          "G_eV": -96.807915,
+          "F_phonon_kJmol": -72.0171,
+          "F_phonon_eV": -0.746407,
+          "S_JKmol": 409.1789,
+          "Cv_JKmol": 219.8935
+        },
+        "450": {
+          "G_eV": -97.026811,
+          "F_phonon_kJmol": -93.1373,
+          "F_phonon_eV": -0.965303,
+          "S_JKmol": 435.1369,
+          "Cv_JKmol": 220.8459
+        },
+        "500": {
+          "G_eV": -97.258447,
+          "F_phonon_kJmol": -115.4867,
+          "F_phonon_eV": -1.196939,
+          "S_JKmol": 458.4427,
+          "Cv_JKmol": 221.5311
+        },
+        "550": {
+          "G_eV": -97.501581,
+          "F_phonon_kJmol": -138.9455,
+          "F_phonon_eV": -1.440073,
+          "S_JKmol": 479.5818,
+          "Cv_JKmol": 222.0402
+        },
+        "600": {
+          "G_eV": -97.75519,
+          "F_phonon_kJmol": -163.4149,
+          "F_phonon_eV": -1.693682,
+          "S_JKmol": 498.9193,
+          "Cv_JKmol": 222.4287
+        },
+        "650": {
+          "G_eV": -98.018414,
+          "F_phonon_kJmol": -188.8121,
+          "F_phonon_eV": -1.956906,
+          "S_JKmol": 516.7355,
+          "Cv_JKmol": 222.7317
+        },
+        "700": {
+          "G_eV": -98.290526,
+          "F_phonon_kJmol": -215.0668,
+          "F_phonon_eV": -2.229018,
+          "S_JKmol": 533.2508,
+          "Cv_JKmol": 222.9726
+        },
+        "750": {
+          "G_eV": -98.570897,
+          "F_phonon_kJmol": -242.1184,
+          "F_phonon_eV": -2.509389,
+          "S_JKmol": 548.6412,
+          "Cv_JKmol": 223.1673
+        },
+        "800": {
+          "G_eV": -98.858985,
+          "F_phonon_kJmol": -269.9145,
+          "F_phonon_eV": -2.797477,
+          "S_JKmol": 563.0494,
+          "Cv_JKmol": 223.3268
+        },
+        "850": {
+          "G_eV": -99.15431,
+          "F_phonon_kJmol": -298.409,
+          "F_phonon_eV": -3.092802,
+          "S_JKmol": 576.5926,
+          "Cv_JKmol": 223.4591
+        },
+        "900": {
+          "G_eV": -99.45645,
+          "F_phonon_kJmol": -327.561,
+          "F_phonon_eV": -3.394942,
+          "S_JKmol": 589.3684,
+          "Cv_JKmol": 223.5701
+        },
+        "950": {
+          "G_eV": -99.765031,
+          "F_phonon_kJmol": -357.3344,
+          "F_phonon_eV": -3.703523,
+          "S_JKmol": 601.4588,
+          "Cv_JKmol": 223.6641
+        },
+        "1000": {
+          "G_eV": -100.079714,
+          "F_phonon_kJmol": -387.6966,
+          "F_phonon_eV": -4.018206,
+          "S_JKmol": 612.9333,
+          "Cv_JKmol": 223.7444
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 17,
+      "dir_name": "17_Ca5Pb3_58922",
+      "formula": "Ca5Pb3",
+      "coll_code": "58922",
+      "elements": [
+        "Ca",
+        "Pb"
+      ],
+      "n_atoms_uc": 48,
+      "Etot_eV": -146.716701,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -149.760396,
+          "F_phonon_kJmol": -293.6709,
+          "F_phonon_eV": -3.043695,
+          "S_JKmol": 2206.7512,
+          "Cv_JKmol": 1167.2472
+        },
+        "350": {
+          "G_eV": -150.951904,
+          "F_phonon_kJmol": -408.6335,
+          "F_phonon_eV": -4.235203,
+          "S_JKmol": 2387.3151,
+          "Cv_JKmol": 1175.0634
+        },
+        "400": {
+          "G_eV": -152.230672,
+          "F_phonon_kJmol": -532.0155,
+          "F_phonon_eV": -5.513971,
+          "S_JKmol": 2544.5803,
+          "Cv_JKmol": 1180.1945
+        },
+        "450": {
+          "G_eV": -153.586077,
+          "F_phonon_kJmol": -662.7917,
+          "F_phonon_eV": -6.869376,
+          "S_JKmol": 2683.8039,
+          "Cv_JKmol": 1183.7392
+        },
+        "500": {
+          "G_eV": -155.009773,
+          "F_phonon_kJmol": -800.157,
+          "F_phonon_eV": -8.293072,
+          "S_JKmol": 2808.6622,
+          "Cv_JKmol": 1186.2882
+        },
+        "550": {
+          "G_eV": -156.495043,
+          "F_phonon_kJmol": -943.4633,
+          "F_phonon_eV": -9.778342,
+          "S_JKmol": 2921.8206,
+          "Cv_JKmol": 1188.1815
+        },
+        "600": {
+          "G_eV": -158.036363,
+          "F_phonon_kJmol": -1092.1775,
+          "F_phonon_eV": -11.319662,
+          "S_JKmol": 3025.2705,
+          "Cv_JKmol": 1189.6256
+        },
+        "650": {
+          "G_eV": -159.629114,
+          "F_phonon_kJmol": -1245.8541,
+          "F_phonon_eV": -12.912413,
+          "S_JKmol": 3120.5376,
+          "Cv_JKmol": 1190.7521
+        },
+        "700": {
+          "G_eV": -161.269377,
+          "F_phonon_kJmol": -1404.115,
+          "F_phonon_eV": -14.552676,
+          "S_JKmol": 3208.8158,
+          "Cv_JKmol": 1191.6474
+        },
+        "750": {
+          "G_eV": -162.953787,
+          "F_phonon_kJmol": -1566.6352,
+          "F_phonon_eV": -16.237086,
+          "S_JKmol": 3291.0565,
+          "Cv_JKmol": 1192.3707
+        },
+        "800": {
+          "G_eV": -164.67942,
+          "F_phonon_kJmol": -1733.1329,
+          "F_phonon_eV": -17.962719,
+          "S_JKmol": 3368.0299,
+          "Cv_JKmol": 1192.9634
+        },
+        "850": {
+          "G_eV": -166.443716,
+          "F_phonon_kJmol": -1903.361,
+          "F_phonon_eV": -19.727014,
+          "S_JKmol": 3440.368,
+          "Cv_JKmol": 1193.455
+        },
+        "900": {
+          "G_eV": -168.244413,
+          "F_phonon_kJmol": -2077.1012,
+          "F_phonon_eV": -21.527712,
+          "S_JKmol": 3508.596,
+          "Cv_JKmol": 1193.8673
+        },
+        "950": {
+          "G_eV": -170.079498,
+          "F_phonon_kJmol": -2254.1595,
+          "F_phonon_eV": -23.362797,
+          "S_JKmol": 3573.1547,
+          "Cv_JKmol": 1194.2165
+        },
+        "1000": {
+          "G_eV": -171.94717,
+          "F_phonon_kJmol": -2434.3618,
+          "F_phonon_eV": -25.230469,
+          "S_JKmol": 3634.4178,
+          "Cv_JKmol": 1194.5148
+        }
+      },
+      "thermal_source": "yaml"
+    },
+    {
+      "index": 18,
+      "dir_name": "18_Ga3Ru_70316",
+      "formula": "Ga3Ru",
+      "coll_code": "70316",
+      "elements": [
+        "Ga",
+        "Ru"
+      ],
+      "n_atoms_uc": 16,
+      "Etot_eV": -78.378853,
+      "G_vs_T": {
+        "300": {
+          "G_eV": -78.764506,
+          "F_phonon_kJmol": -37.2097,
+          "F_phonon_eV": -0.385653,
+          "S_JKmol": 547.2195,
+          "Cv_JKmol": 375.9344
+        },
+        "350": {
+          "G_eV": -79.063571,
+          "F_phonon_kJmol": -66.0651,
+          "F_phonon_eV": -0.684719,
+          "S_JKmol": 605.6442,
+          "Cv_JKmol": 381.8144
+        },
+        "400": {
+          "G_eV": -79.390979,
+          "F_phonon_kJmol": -97.655,
+          "F_phonon_eV": -1.012127,
+          "S_JKmol": 656.9006,
+          "Cv_JKmol": 385.7294
+        },
+        "450": {
+          "G_eV": -79.743428,
+          "F_phonon_kJmol": -131.6611,
+          "F_phonon_eV": -1.364576,
+          "S_JKmol": 702.4997,
+          "Cv_JKmol": 388.46
+        },
+        "500": {
+          "G_eV": -80.118285,
+          "F_phonon_kJmol": -167.8291,
+          "F_phonon_eV": -1.739432,
+          "S_JKmol": 743.5356,
+          "Cv_JKmol": 390.4369
+        },
+        "550": {
+          "G_eV": -80.513405,
+          "F_phonon_kJmol": -205.9522,
+          "F_phonon_eV": -2.134552,
+          "S_JKmol": 780.8207,
+          "Cv_JKmol": 391.9125
+        },
+        "600": {
+          "G_eV": -80.927011,
+          "F_phonon_kJmol": -245.859,
+          "F_phonon_eV": -2.548158,
+          "S_JKmol": 814.9721,
+          "Cv_JKmol": 393.0422
+        },
+        "650": {
+          "G_eV": -81.357608,
+          "F_phonon_kJmol": -287.4052,
+          "F_phonon_eV": -2.978756,
+          "S_JKmol": 846.4685,
+          "Cv_JKmol": 393.9259
+        },
+        "700": {
+          "G_eV": -81.803924,
+          "F_phonon_kJmol": -330.468,
+          "F_phonon_eV": -3.425071,
+          "S_JKmol": 875.6883,
+          "Cv_JKmol": 394.6299
+        },
+        "750": {
+          "G_eV": -82.264858,
+          "F_phonon_kJmol": -374.9412,
+          "F_phonon_eV": -3.886005,
+          "S_JKmol": 902.935,
+          "Cv_JKmol": 395.1997
+        },
+        "800": {
+          "G_eV": -82.739455,
+          "F_phonon_kJmol": -420.7327,
+          "F_phonon_eV": -4.360603,
+          "S_JKmol": 928.4561,
+          "Cv_JKmol": 395.6672
+        },
+        "850": {
+          "G_eV": -83.226876,
+          "F_phonon_kJmol": -467.7615,
+          "F_phonon_eV": -4.848023,
+          "S_JKmol": 952.4552,
+          "Cv_JKmol": 396.0555
+        },
+        "900": {
+          "G_eV": -83.726376,
+          "F_phonon_kJmol": -515.9557,
+          "F_phonon_eV": -5.347523,
+          "S_JKmol": 975.1026,
+          "Cv_JKmol": 396.3815
+        },
+        "950": {
+          "G_eV": -84.237293,
+          "F_phonon_kJmol": -565.2516,
+          "F_phonon_eV": -5.85844,
+          "S_JKmol": 996.5415,
+          "Cv_JKmol": 396.6578
+        },
+        "1000": {
+          "G_eV": -84.759034,
+          "F_phonon_kJmol": -615.5918,
+          "F_phonon_eV": -6.380181,
+          "S_JKmol": 1016.8935,
+          "Cv_JKmol": 396.894
+        }
+      },
+      "thermal_source": "yaml"
+    }
+  ],
+  "failed": [
+    {
+      "dir_name": "02_Cd9Cu4_124245",
+      "formula": "Cd9Cu4",
+      "reason": "No thermal data"
+    },
+    {
+      "dir_name": "05_Ta11Pt4_208413",
+      "formula": "Ta11Pt4",
+      "reason": "No thermal data"
+    },
+    {
+      "dir_name": "06_Mg9Ru2_209547",
+      "formula": "Mg9Ru2",
+      "reason": "No thermal data"
+    },
+    {
+      "dir_name": "13_Sb3Ir_36935",
+      "formula": "Sb3Ir",
+      "reason": "No thermal data"
+    },
+    {
+      "dir_name": "16_CaRh2_4847",
+      "formula": "CaRh2",
+      "reason": "No thermal data"
+    }
+  ],
+  "T_range": [
+    300,
+    350,
+    400,
+    450,
+    500,
+    550,
+    600,
+    650,
+    700,
+    750,
+    800,
+    850,
+    900,
+    950,
+    1000
+  ]
+}

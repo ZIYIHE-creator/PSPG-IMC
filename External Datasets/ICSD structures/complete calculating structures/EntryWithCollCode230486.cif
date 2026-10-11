@@ -1,0 +1,80 @@
+
+#(C) 2026 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_230486-ICSD
+_database_code_ICSD 230486
+_audit_creation_date 2019-02-01
+_chemical_name_common 'Calcium silver (1/2)'
+_chemical_formula_structural 'Ca Ag2'
+_chemical_formula_sum 'Ag2 Ca1'
+_chemical_name_structure_type KHg2
+_exptl_crystal_density_diffrn 6.1
+_citation_title
+'Chemical behaviour of CaAg2 under ethylene epoxidation conditions'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2018 2018 3933 3941 EJICFO
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Antonyshyn, Iryna'
+primary 'Sichevych, Olga'
+primary 'Rasim, Karsten'
+primary 'Ormeci, Alim'
+primary 'Burkhardt, Ulrich'
+primary 'Titlbach, Sven'
+primary 'Schunk, Stephan Andreas'
+primary 'Armbruester, Marc'
+primary 'Grin, Yuri'
+_cell_length_a 4.691(1)
+_cell_length_b 7.295(2)
+_cell_length_c 8.135(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 278.39
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'I m m a'
+_space_group_IT_number 74
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z'
+2 '-x, -y+1/2, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y+1/2, z'
+6 'x, y+1/2, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y, -z+1/2'
+10 '-x+1/2, -y, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y, z+1/2'
+14 'x+1/2, y, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Ag0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ca1 Ca0+ 4 e 0 0.25 0.5440(3) 0.026(1) 1.
+Ag1 Ag0+ 8 h 0 0.0511(1) 0.1631(2) 0.0183(1) 1.
+#End of TTdata_230486-ICSD
